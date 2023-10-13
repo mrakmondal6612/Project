@@ -1,4 +1,4 @@
 # New Project
-This Projecs create from local system
+This Projecs create from local system.
 
-Create By Mr. AK
+Create By Mr. AK.
